@@ -1,1 +1,1 @@
-<h1> Hello, this is deploye to an Ansible server   </h1>
+<h1> Hello, this is deployed to an Ansible server   </h1>
